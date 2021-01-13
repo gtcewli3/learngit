@@ -1,2 +1,2 @@
 start learning git
-yes
+yes or no
